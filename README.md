@@ -1,2 +1,2 @@
-# Hello_world
+# Hello-world
 Learning to code from the scratch
